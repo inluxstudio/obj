@@ -1,0 +1,63 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.134715837)
+
+newmtl Stena
+Kd 220 215 171
+illum 1
+
+newmtl Metall
+Kd 231 193 137
+illum 1
+
+newmtl Stal_
+Kd 128 128 128
+illum 1
+
+newmtl Plastik chyornyy
+Kd 92 95 88
+illum 1
+
+newmtl Shpon_ 0_5 mm_ matovyy lak
+illum 1
+map_Kd obj1_textures\Shpon orekha amerikanskogo_ matovyy lak.jpg
+
+newmtl MDF_ 18 mm_ shlifovannyy _DS_
+illum 1
+map_Kd obj1_textures\MDF.jpg
+
+newmtl Shpon kromochnyy 0_5 mm_ v tsvet
+illum 1
+map_Kd obj1_textures\Shpon orekha amerikanskogo_ matovyy lak.jpg
+
+newmtl Khrom
+Kd 192 192 192
+illum 1
+
+newmtl Chyornyy matovyy
+Kd 68 68 68
+illum 1
+
+newmtl Alyuminiy
+Kd 215 215 215
+illum 1
+
+newmtl MDF_ 10 mm_ shlifovannyy _DS_
+illum 1
+map_Kd obj1_textures\MDF.jpg
+
+newmtl Plastik belyy
+Kd 255 255 255
+illum 1
+
+newmtl Steklo_ 6 mm_ osvetlyonnoe
+Kd 192 192 192
+illum 1
+
+newmtl Plastik seryy
+illum 1
+map_Kd obj1_textures\default.bmp
+
+newmtl Noname
+Kd 0 255 0
+illum 1
+
